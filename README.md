@@ -1,4 +1,4 @@
-# Design-Patterns-in-Java Using One Mega Problem Statement i.e "Setting Up of a Car Company"
+# Design-Patterns-in-Java (Using One Mega Problem Statement i.e "Setting Up of a Car Company")
 All 23 Gang of four Design Patterns implemented in Java 
 
 *Whats So SPECIAL* : 
