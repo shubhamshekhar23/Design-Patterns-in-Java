@@ -13,4 +13,4 @@ Behavioral Design Patterns -
 
 2.( COMMAND ) - In our new Car, We want to provide user a remote with only one button ( Just for elegance ) that can be used to perform differnt tasks like lighton , play music and Controlling Air condition etc. All these commands can be performed on a single button press;
 
-3. ( Interpreter ) - In our car, We want to create a voice command system in which commands can be created and interpreted. e.g startcar, fuelcheck, autodrive etc. for these commands there are AND OR combination of commands like fuelcheck and doorclosed.
+3.( INTERPRETER ) - In our car, We want to create a voice command system in which commands can be created and interpreted. e.g startcar, fuelcheck, autodrive etc. for these commands there are AND OR combination of commands like fuelcheck and doorclosed.
