@@ -12,11 +12,78 @@ Following are the features in our problem statement :
 
 ### Behavioral Design Patterns - 
 
-#### 1.( CHAIN_OF_RESPONSIBILITY ) -  
+#### 1. CHAIN OF RESPONSIBILITY -  
 In our new Car Artificial Intelligence software, there is a possibility of virus from other hackers.There are different levels of virus and based on that level, employees can solve or not solve it. So, we have a team of developers and there is a hierarchy of developers. So, when there is a virus found in the system, it is given to the engineer. If he can not solve it, then he will pass it to team lead; if team lead cant then he will pass it to technical officer;etc. .
 
-#### 2.( COMMAND ) - 
+#### 2. COMMAND - 
 In our new Car, We want to provide user a remote with only one button ( Just for elegance ) that can be used to perform differnt tasks like lighton , play music and Controlling Air condition etc. All these commands can be performed on a single button press;
 
-#### 3.( INTERPRETER ) - 
+#### 3. INTERPRETER - 
 In our car, We want to create a voice command system in which commands can be created and interpreted. e.g startcar, fuelcheck, autodrive etc. for these commands there are AND OR combination of commands like fuelcheck and doorclosed.
+
+#### 4. ITERATOR - 
+Description Coming Soon..
+
+#### 5. MEDIATOR - 
+Description Coming Soon..
+
+#### 6. MEMENTO - 
+Description Coming Soon..
+
+#### 7. OBSERVER - 
+Description Coming Soon..
+
+#### 8. STATE - 
+Description Coming Soon..
+
+#### 9. STRATEGY - 
+Description Coming Soon..
+
+#### 10. TEMPLATE - 
+Description Coming Soon..
+
+#### 11. VISITOR - 
+Description Coming Soon..
+
+
+### Creational Design Patterns - 
+
+#### 1. ABSTRACT FACTORY -  
+Description Coming Soon..
+
+#### 2. BUILDER - 
+Description Coming Soon..
+
+#### 3. FACTORY - 
+Description Coming Soon..
+
+#### 4. PROTOTYPE - 
+Description Coming Soon..
+
+#### 5. SINGLETON - 
+Description Coming Soon..
+
+
+### Structural Design Patterns - 
+
+#### 1. ADAPTER -  
+Description Coming Soon..
+
+#### 2. BRIDGE - 
+Description Coming Soon..
+
+#### 3. COMPOSITE - 
+Description Coming Soon..
+
+#### 4. DECORATOR - 
+Description Coming Soon..
+
+#### 5. FACADE - 
+Description Coming Soon..
+
+#### 6. FLYWEIGHT - 
+Description Coming Soon..
+
+#### 7. PROXY - 
+Description Coming Soon..
+
