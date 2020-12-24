@@ -17,6 +17,4 @@ class Observer
     }
 }
 
-/* this example has the functionality first we create a headquarte with atleast one cartype; then showroom can be created independently
-then they can request the headquarter to add them; as soon as they are added, they are populated with all the cartypes that are avaiable at that 
-time in the headquarter; once a new cartype ios added in the headquarter; all the added showrooms are notified */
+/* This example has the functionality that at first we create a headquarter with atleast one cartype; then showroom can be created independently, then they can request the headquarter to add them; as soon as they are added, they are populated with all the cartypes that are avaiable at that time in the headquarter; once a new cartype is added in the headquarter; all the added showrooms are notified */

@@ -17,5 +17,4 @@ class State
     }
 }
 
-/* This example has a car that can be started with any gear; you have to provide a gear as an argument; then changegear can be called; when accelerate to some
-speed be called, then gear checks the speed limit of which it can afford, then it displays that message */
+/* This example has a car that can be started with any gear; you have to provide a gear as an argument; then changegear can be called; when accelerate to some speed be called, then gear checks the speed limit of which it can afford, then it displays that message */

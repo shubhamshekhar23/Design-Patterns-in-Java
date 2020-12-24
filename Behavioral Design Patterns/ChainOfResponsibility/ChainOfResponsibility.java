@@ -21,6 +21,4 @@ class ChainOfResponsibility
 	}
 }
 
-/* There is a new virus discovered whose level can be set ; now there is a debugger chain hierecahy; if an engineer can solve it
-then ints fine; otherwise he will pass it to team lead; if team lead cant then he will pass it to technical officer;etc.
-So a chain abstract class is created and all the debuggers will extend from it amd create a chain */
+/* There are new viruses being discovered in the system whose severity level can be set ; now there is a debugger chain hierecahy; if an engineer can solve it then it's fine; otherwise he will pass it to team lead; if team lead can't solve it then he will pass it to technical officer;etc. So a chain abstract class is created and all the debuggers will extend from it amd create a chain */

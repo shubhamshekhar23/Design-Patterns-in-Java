@@ -17,6 +17,4 @@ class Mediator
     }
 }
 
-/* this has 3 car plants one for each cartyepe(luxiury, sedan and sports)that has their own codintionof boioking caars based on how much cart is in the stock; we have a meditor
-that is sjowroom that take sthe custoemr srequest for bookig and requests the carplant based on the type of car requested; in this way
-showroom acts aas a mediator and customer doesnt have to deal with the carplant directly */
+/* This has 3 car plants one for each cartype(luxury, sedan and sports)that has their own condition of booking cars based on how much car is in the stock; we have a mediator that is showroom that take the customer's request for booking and requests the carplant based on the type of car requested; in this way showroom acts aas a mediator and customer doesnt have to deal with the carplant directly */

@@ -17,6 +17,6 @@ class Command
 	}
 }
 
-/*Here in this example qwe ponly have one button in the remorte that can be used to perform differnt task like lighton , play miusic etc.
-Ll these commandds can be performed on a single buttone pressed; we can do it by creating a class out of thses commands
-which uses the original syustem methods( like Lightcontro, muysicsystem) and then perform on execute method */
+/*Here in this example we only have one button in the remote that can be used to perform differnt task like lighton , play miusic etc.
+All these commandds can be performed on a single button press; we can do it by creating a class out of thses commands
+which uses the original system methods( like Lightcontrol, muysicsystem) and then perform on execute method */
