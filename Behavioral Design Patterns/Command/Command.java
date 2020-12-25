@@ -37,6 +37,6 @@ class Command
 	}
 }
 
-/*Here in this example we only have one button in the remote that can be used to perform differnt tasks like lighton, play miusic, turn on AC.
+/*Here in this example we only have one button in the remote that can be used to perform differnt tasks like lighton,lightoff, play miusic, turn on AC, turnOff ac. This commands use different systems Light, MusicSystem, Aircondition.
 All these commands can be performed on a single button press; we just have to setCommand and everytime we want it to do adifferent task, we will pass the instance of the new task. we can do it by creating a class out of thses commands
 which uses the original system methods( like Lightcontrol, muysicsystem, aircondition) and then perform on execute method */
