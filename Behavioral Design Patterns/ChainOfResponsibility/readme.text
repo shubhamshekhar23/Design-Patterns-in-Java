@@ -1,0 +1,13 @@
+Chain Of responsibility - 
+
+# The problem statement is that we have a hierarchy of some items(i1,i2,i3,i4 etc.), and we need to give something to the lowest item(say i1) in hierarchy to handle a problem(p1), if p1 is not handled by i1, then system should automatically pass it the next item in hierrrachy and so on until its handled properly.
+
+# To do this, we first have to write a code taht will create hierarchy among items and then test it by giving the problem to the lowest.
+
+# We can craete an abstract class plan called chainPlan that will have a method (m1) that will set the hierarchy by taking an instance of the item.
+
+# All the items will extend this plan and will have the m1 available.
+
+# Then, we will craete instance of all the items and use the m1 to set the hierarchy for each item.
+
+# the we can give the p1 to the i1 to handle
