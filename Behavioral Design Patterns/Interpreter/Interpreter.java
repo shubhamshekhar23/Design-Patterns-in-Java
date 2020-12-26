@@ -24,6 +24,6 @@ class Interpreter
 	}
 }
 
-/*This is interpreter; just like we can use defining grammar rules; here we have defined an interpreter called voice input
+/*This is interpreter; just like we can define grammar rules; here we define an interpreter called voice input
 that has a data based on which the interpretaion will go on; and then there are expressions handler like what combination we
 want to handle AND OR and we can create our combinatuion of voice inputs and then interpret */
