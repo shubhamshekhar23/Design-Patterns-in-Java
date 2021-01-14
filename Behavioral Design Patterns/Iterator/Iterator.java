@@ -50,4 +50,4 @@ class Iterator
     }
 }
 
-/* Iterator pattern is used when we have a list of a particular object like an array of same type of objects and we want to give a functionality of iterating through the objects in a similar way for all type of list of objects; so we implement a iteratorplan and collectionplan that provides an iterator that has similar functionality for every lius of objects */
+/* Iterator pattern is used when we have a list of a particular object like an array of same type of objects and we want to give a functionality of iterating through the objects in a similar way; so we implement a iteratorplan and collectionplan that provides an iterator that has similar functionality for every list of objects and have list class implement collectionplan which provides ietartor via one method (that implements iterator plan) */
