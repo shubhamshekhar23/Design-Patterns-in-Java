@@ -22,7 +22,7 @@ In our new Car, We want to provide user a remote with only one button ( Just for
 In our car, We want to create a voice command system in which commands can be created and interpreted. e.g startcar, fuelcheck, autodrive etc. for these commands there are AND OR combination of commands like fuelcheck and doorclosed.
 
 #### 4. ITERATOR - 
-Description Coming Soon..
+In our company, we want to maintain a list of customers and cars and we want to iterate through these lists and get the details.
 
 #### 5. MEDIATOR - 
 Description Coming Soon..
