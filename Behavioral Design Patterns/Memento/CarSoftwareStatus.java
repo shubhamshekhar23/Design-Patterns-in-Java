@@ -19,6 +19,16 @@ public class CarSoftwareStatus
 
     public void getDetails()
     {
-        System.out.println("new change :" + this.newChange + " ; " + "correction : " + this.correction);
+        System.out.println("Change :" + this.newChange + " ; " + "Correction : " + this.correction);
+    }
+
+    public CarSoftwareMemento createMemento() {
+        return new CarSoftwareMemento(this);
+    }
+
+    public void setStatusFromMemento(CarSoftwareMemento mem){
+        CarSoftwareStatus cssNew = mem.getStatus();
+        this.setNewChange(cssNew.newChange);
+        this.setCorrection(cssNew.correction);
     }
 }
