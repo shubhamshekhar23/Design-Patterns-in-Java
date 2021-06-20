@@ -64,7 +64,7 @@ Description Coming Soon..
 Description Coming Soon..
 
 #### 5. SINGLETON - 
-Description Coming Soon..
+Our company will have a single headquarter.
 
 
 ### Structural Design Patterns - 
