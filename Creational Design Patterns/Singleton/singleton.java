@@ -2,10 +2,10 @@ class singleton
 {
 	public static void main(String[] args)
 	{	
-        godCreation myGod = godCreation.createMyGod("Jesus");
-        System.out.println( myGod);
-        godCreation myGod2 = godCreation.createMyGod("Indra");
-        System.out.println( myGod2);  
+                mercedesHeadQuarter hQ =  headQuarterCreation.createMyHq("MercedesHq");
+                System.out.println( hQ);
+                mercedesHeadQuarter hQ2 =  headQuarterCreation.createMyHq("MercedesHq2");
+                System.out.println( hQ2);  
 	}
 }
 
