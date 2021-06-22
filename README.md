@@ -28,7 +28,7 @@ In our car, We want to create a voice command system in which commands can be cr
 In our company, we want to maintain a list of customers and cars and we want to iterate through these lists and get the details.
 
 #### 5. MEDIATOR - 
-Description Coming Soon..
+We have 3 car plants, one for each cartype(luxury, sedan and sports)that has their own condition of booking cars based on how many cars are in the stock; we have a mediator that is showroom that take the customer's request for booking and then requests the carplant based on the type of car requested; In this way showroom acts as a mediator and customer doesn't have to deal with the carplant directly
 
 #### 6. MEMENTO - 
 Description Coming Soon..
