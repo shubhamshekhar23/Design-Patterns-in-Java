@@ -48,6 +48,9 @@ Description Coming Soon..
 #### 11. VISITOR - 
 Description Coming Soon..
 
+#### 12. others(coming soon) - 
+Blackboard, Null object, Servant, Specification
+
 
 ### Creational Design Patterns - 
 
@@ -65,6 +68,9 @@ Description Coming Soon..
 
 #### 5. SINGLETON - 
 Our company will have a single headquarter.
+
+#### 6. others(coming soon) - 
+Dependency Injection, Lazy initialization, Multiton, Object pool, Resource acquisition is initialization (RAII)
 
 
 ### Structural Design Patterns - 
@@ -89,4 +95,7 @@ Description Coming Soon..
 
 #### 7. PROXY - 
 Description Coming Soon..
+
+#### 8. others(coming soon) - 
+Extension object, Front controller, Marker, Module, Twin
 
