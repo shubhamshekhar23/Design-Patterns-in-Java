@@ -8,6 +8,8 @@ We can decode to create an instance already in the singleton class OR we can let
 
 3. we make constructor private, so that client can instantiate it. We expose one method to get the instance.
 
+4. Its also used, when constructing an object is a heavy task.
+
 
 Problem statement -
 # Our Car Factory only should have one headQuarter. Create a headquarter class that will create only a single instance no matter how many times we instantiate it.
