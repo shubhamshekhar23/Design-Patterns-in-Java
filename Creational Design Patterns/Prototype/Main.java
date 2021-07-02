@@ -1,4 +1,4 @@
-class Prototype {
+class Main {
     public static void main(String[] args) {
         try {
             SuperAlienCar S1 = new SuperAlienCar();

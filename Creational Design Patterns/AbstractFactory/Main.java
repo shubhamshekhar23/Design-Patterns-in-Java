@@ -1,4 +1,4 @@
-class abstractfactory
+class Main
 {
 	public static void main(String[] args)
 	{	
