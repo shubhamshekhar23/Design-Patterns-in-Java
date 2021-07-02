@@ -1,4 +1,4 @@
-class ChainOfResponsibility
+class Main
 {
 	public static void main(String[] args)
 	{	

@@ -1,4 +1,4 @@
-class Strategy
+class Main
 {
     public static void main(String args[])
     {
