@@ -18,6 +18,8 @@ class Main
 	}
 }
 
-/**A car has by default petrol system installed; we can craete new gas system and install in the car; we can setsystem() but it accepts only petrolsystem
- * interface; so we craete an adapter to convert gassystem to petrolsysytem and get the energy from there.
- */
+/*
+    A car has by default petrol system installed; Now we have a new requirement of using gas system and install in the car;
+    To Accomodate this feature we can mmake use of setsystem() in Car class but it accepts only petrolsystem
+    interface; so we craete an adapter that will implment petrolSystem interface and internally will make use of gasSystem instance.
+*/
