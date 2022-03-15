@@ -43,10 +43,11 @@ We have a car that can be started with any gear.When we accelerate to some speed
 Description Coming Soon..
 
 #### 10. TEMPLATE - 
-Description Coming Soon..
+Constructing car has separate steps like carbodyassemble, assembleengine etc.
+and there are 3 different types of car luxury , sedan etc. All of these 3 will have different ways of constructing car steps; so they will implement methods differently but constructing car always use the basic methods
 
 #### 11. VISITOR - 
-Description Coming Soon..
+We have 3 cars sedan, luxury and sportsCar. Each one has proper defined getPrice functions. Now, we have to make changes in that function(addding some extra broker fee), Following open-closed principle, we dont want to make changes in each classes. So, we craete a visitor class.
 
 #### 12. others(coming soon) - 
 Blackboard, Null object, Servant, Specification
