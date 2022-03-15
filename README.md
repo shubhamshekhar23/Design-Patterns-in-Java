@@ -31,13 +31,13 @@ In our company, we want to maintain a list of customers and cars and we want to 
 We have 3 car plants, one for each cartype(luxury, sedan and sports)that has their own condition of booking cars based on how many cars are in the stock; we have a mediator that is showroom that take the customer's request for booking and then requests the carplant based on the type of car requested; In this way showroom acts as a mediator and customer doesn't have to deal with the carplant directly
 
 #### 6. MEMENTO - 
-Description Coming Soon..
+We have created  a software for our car, and we want to track different status of the software while it is undergoing changes, so that it can safely be restored to the previous version. (Just like GIT)
 
 #### 7. OBSERVER - 
-Description Coming Soon..
+we have a Car headquarter and some showrooms. New showrooms can be created independently in different cities, and they can request the headquarter to add them as a franchise; as soon as they are added, they get all the info of the cartypes that are avaiable at that time in the headquarter; once a new cartype is added in the headquarter; all the added showrooms are notified 
 
 #### 8. STATE - 
-Description Coming Soon..
+We have a car that can be started with any gear.When we accelerate to some speed, then gear checks the speed limit of which it can afford, then it displays the corresponding success or failure message
 
 #### 9. STRATEGY - 
 Description Coming Soon..
