@@ -4,7 +4,7 @@
 
 All 23 Gang of four Design Patterns implemented in Java
 
-### _Whats So SPECIAL_ :
+### _Whats So SPECIAL_:
 
 When I was preparing for interview, I could not find a single problem statement that will use all the design patterns. So, To revise all the design patterns in one go, I can just look at that one big problem statement and i'll be good to go.
 
