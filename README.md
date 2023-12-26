@@ -6,9 +6,9 @@ All 23 Gang of four Design Patterns implemented in Java
 
 ### _Whats So SPECIAL_:
 
-When I was preparing for interview, I could not find a single problem statement that will use all the design patterns. So, To revise all the design patterns in one go, I can just look at that one big problem statement and i'll be good to go.
+It provides a single big problem statement consists of multiple small related staements that will use all the design patterns. So, It gets easier to link all the design patterns and create blueprint of all the design patterns.
 
-So, I set out to create that Mega Problem and came up with "Setting Up of a Car Company".
+All the patterns are implemented using one Mega problem statement i.e Setting up of a Car Company Which involves creating a Car factory in a city that has different models of cars; have showrooms in different cities; Headquarter somewhere; car manufacturing process and Hierarchy of Employee that has different job within the car company.
 
 All the patterns are implemented using one Mega problem statement i.e Setting up of a Car Company Which involves creating a Car factory in a city that has different models of cars; have showrooms in different cities; Headquarter somewhere; car manufacturing process and Hierarchy of Employee that has different job within the car company.
 
